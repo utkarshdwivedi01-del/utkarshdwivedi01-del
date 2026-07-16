@@ -1,0 +1,3 @@
+TODO: Replace YOUR_USERNAME with your actual GitHub username in README.md
+TODO: Replace the birthday in today.py (search for 'TODO')
+TODO: Add repo secrets ACCESS_TOKEN and USER_NAME (see chat instructions)
