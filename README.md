@@ -1,6 +1,6 @@
-<a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME">
+<a href="https://github.com/utkarshdwivedi01-del/utkarsh">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/dark_mode.svg">
-    <img alt="YOUR_USERNAME's GitHub Profile README" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarshdwivedi01-del/utkarsh/main/dark_mode.svg">
+    <img alt="utkarshdwivedi01-del's GitHub Profile README" src="https://raw.githubusercontent.com/utkarshdwivedi01-del/utkarsh/main/light_mode.svg">
   </picture>
 </a>
