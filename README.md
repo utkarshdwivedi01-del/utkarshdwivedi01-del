@@ -42,7 +42,7 @@ I care about writing clean code, understanding the underlying systems, and build
 ## 📫 Connect
 
 - GitHub: [@utkarshdwivedi01-del](https://github.com/utkarshdwivedi01-del)
-- LinkedIn: Add your current LinkedIn profile here
+- LinkedIn: 
 - Email: utkarshdwivedi14405@gmail.com
 
 ---
